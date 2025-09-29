@@ -89,7 +89,7 @@ class GurmeherSingh:
 
 - Automated extraction of 300 credit cards with 80 attributes via Firecrawl, cutting manual data entry by 90%
 - Built document-grounded chatbot using RAG with hybrid retrieval, improving answer relevance by 50%
-- Implemeneted a Neo-j based Credit Card Rcommender Engine
+- Implemented a Neo4j-based Credit Card Recommender Engine
 
 **Research Assistant** @ **The Bader Research Lab, NJIT**  
 *Sep. 2024 - Dec. 2024*
@@ -100,26 +100,15 @@ class GurmeherSingh:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GurmeherSingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=GurmeherSingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&layout=compact" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurmeherSingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurmeherSingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
 </div>
 
-<!-- ### 🚀 **Technical Learning**
-```mermaid
-graph LR
-    A[Current Learning] --> B[Large Language Models]
-    A --> C[Generative AI]
-    A --> D[MLOps]
-    A --> E[Cloud Computing]
-    
-    B --> F[Fine-tuning LLMs]
-    C --> G[Stable Diffusion]
-    D --> H[Model Deployment]
-    E --> I[AWS/GCP]
-``` -->
 
 ## 🤝 Let's Connect!
 
