@@ -55,17 +55,18 @@ class GurmeherSingh:
 
 ## 🎯 Featured Projects
 
-### 🤖 NJIT Elective Advisor
-- **Live Platform** - njitelectiveadvisor.com with AI-powered course recommendations for 1000+ NJIT courses
-- **Faculty Integration** - Hired by Office of Institutional Effectiveness to build AI tools for NJIT community
+### 🤖 [NJIT Elective Advisor](https://github.com/GurmeherSingh/NJITElectiveAdvisor)
+- **Live Platform** - [njitelectiveadvisor.com](https://njitelectiveadvisor.com) with AI-powered course recommendations for 1000+ NJIT courses
+- **Smart Recommendation Engine** - Engineered recommendation system leveraging TF-IDF, cosine similarity, keyword mapping, and NLTK preprocessing for 1,176 courses across 24 departments, achieving 95% recommendation accuracy
 
-### 🧠 CarbonLens - AR Scanner to lookup Carbon Footprint Emissions
+### 🧠 [CarbonLens](https://github.com/GurmeherSingh/CarbonLens) - AR Scanner to lookup Carbon Footprint Emissions
 - **AR Scanner for Environmental Impact** - Point camera at products to see carbon footprint, water usage, and sustainability data in real-time
 - **🏆 Winner** - MLH Track: Best Use of MongoDB Atlas, GirlHacks 2025
 
 ## 🏆 Recent Achievements
 
 - 🎓 **Research Presentation** - "Leveraging NLP to transform Course Evaluation" at NEAIR 52nd Conference (Nov 8-11) in Maryland alongside Dr. Yi Meng, Associate Director at NJIT
+- **🏆 Winner** - MLH Track: Best Use of MongoDB Atlas, GirlHacks 2025
 
 ## 💼 Current Employment
 
@@ -73,9 +74,9 @@ class GurmeherSingh:
 *Sep. 2025 - Present*
 
 - Selected and funded by NJIT director to scale personal project into university-level initiative under NJIT OIE
-- Implemented ML algorithms using Gemini to model prerequisite relationships across 1,000 courses
+- Building AI driven tools for the NJIT community
 
-**Research Assistant** @ **Center for AI Research, NJIT**  
+**Research Assistant** @ **Center for AI Research, NJIT (under Prof Guiling Wang)**  
 *Sep. 2025 - Present*
 
 - Developed benchmark dataset to evaluate LLMs on interpreting steganographic and hidden-depth images
@@ -88,6 +89,7 @@ class GurmeherSingh:
 
 - Automated extraction of 300 credit cards with 80 attributes via Firecrawl, cutting manual data entry by 90%
 - Built document-grounded chatbot using RAG with hybrid retrieval, improving answer relevance by 50%
+- Implemeneted a Neo-j based Credit Card Rcommender Engine
 
 **Research Assistant** @ **The Bader Research Lab, NJIT**  
 *Sep. 2024 - Dec. 2024*
@@ -105,7 +107,7 @@ class GurmeherSingh:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurmeherSingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### 🚀 **Technical Learning**
+<!-- ### 🚀 **Technical Learning**
 ```mermaid
 graph LR
     A[Current Learning] --> B[Large Language Models]
@@ -117,7 +119,7 @@ graph LR
     C --> G[Stable Diffusion]
     D --> H[Model Deployment]
     E --> I[AWS/GCP]
-```
+``` -->
 
 ## 🤝 Let's Connect!
 
