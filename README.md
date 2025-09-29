@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Gurmeher Singh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Data+Science+Explorer;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Data+Science+Explorer" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,7 +12,7 @@
 class GurmeherSingh:
     def __init__(self):
         self.name = "Gurmeher Singh"
-        self.role = "AI/ML Engineer & Data Scientist"
+        self.role = "Full Ride Merit Scholar at New Jersey Institute of Technology"
         self.passion = ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"]
         self.education = "Computer Science & Engineering"
         self.location = "New Jersey, USA"
