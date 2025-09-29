@@ -67,9 +67,7 @@ def past_experience(self):
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="mailto:guru170606@gmail.com">
-    <img src="https://img.shields.io/badge/📧_guru170606@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  **📧 guru170606@gmail.com**
   <a href="https://www.linkedin.com/in/gurmehersingh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
