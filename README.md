@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Gurmeher Singh
+#👋 Hi there, I'm Gurmeher Singh
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Data+Science+Explorer" alt="Typing SVG" />
