@@ -55,31 +55,45 @@ class GurmeherSingh:
 
 ## 🎯 Featured Projects
 
-### 🤖 AI/ML Projects
-- **[Neural Network Playground](https://github.com/username/neural-network-playground)** - Interactive visualization of neural networks
-- **[Sentiment Analysis API](https://github.com/username/sentiment-analysis)** - Real-time sentiment analysis using NLP
-- **[Computer Vision Pipeline](https://github.com/username/cv-pipeline)** - End-to-end image classification system
+### 🤖 NJIT Elective Advisor
+- **Live Platform** - njitelectiveadvisor.com with AI-powered course recommendations for 1000+ NJIT courses
+- **Faculty Integration** - Hired by Office of Institutional Effectiveness to build AI tools for NJIT community
 
-### 🌐 Full-Stack Applications
-- **[AI-Powered Dashboard](https://github.com/username/ai-dashboard)** - Real-time analytics with ML insights
-- **[Smart Recommendation Engine](https://github.com/username/recommendation-engine)** - Collaborative filtering system
+### 🧠 CarbonLens - AR Scanner to lookup Carbon Footprint Emissions
+- **AR Scanner for Environmental Impact** - Point camera at products to see carbon footprint, water usage, and sustainability data in real-time
+- **🏆 Winner** - MLH Track: Best Use of MongoDB Atlas, GirlHacks 2025
 
 ## 🏆 Recent Achievements
 
-- 🥇 **1st Place** - NJIT AI/ML Hackathon 2024
-- 🎓 **Dean's List** - Fall 2023, Spring 2024
-- 🚀 **Published Research** - "Optimizing Neural Networks for Edge Computing"
-- 💼 **ML Engineer Intern** - TechCorp Summer 2024
-- 📊 **Kaggle Expert** - Top 5% in multiple competitions
+- 🎓 **Research Presentation** - "Leveraging NLP to transform Course Evaluation" at NEAIR 52nd Conference (Nov 8-11) in Maryland alongside Dr. Yi Meng, Associate Director at NJIT
 
 ## 💼 Current Employment
 
-**Machine Learning Engineer** @ **TechCorp**  
-*June 2024 - Present*
+**Undergraduate Survey Research Data Analyst** @ **Grace Hopper AI Research Institute, NJIT**  
+*Sep. 2025 - Present*
 
-- Developing production ML pipelines for recommendation systems
-- Implementing MLOps practices for model deployment
-- Collaborating with cross-functional teams on AI initiatives
+- Selected and funded by NJIT director to scale personal project into university-level initiative under NJIT OIE
+- Implemented ML algorithms using Gemini to model prerequisite relationships across 1,000 courses
+
+**Research Assistant** @ **Center for AI Research, NJIT**  
+*Sep. 2025 - Present*
+
+- Developed benchmark dataset to evaluate LLMs on interpreting steganographic and hidden-depth images
+- Tested multimodal AI models (GPT, Claude, Gemini, InternLM, LLaVa) on visualization tasks
+
+## 💼 Past Experience
+
+**AI/ML Intern** @ **Welzin — Credzin**  
+*Jun. 2025 - Aug. 2025*
+
+- Automated extraction of 300 credit cards with 80 attributes via Firecrawl, cutting manual data entry by 90%
+- Built document-grounded chatbot using RAG with hybrid retrieval, improving answer relevance by 50%
+
+**Research Assistant** @ **The Bader Research Lab, NJIT**  
+*Sep. 2024 - Dec. 2024*
+
+- Applied K-Means to 1.2M phone records, identifying spatio-temporal clusters for crime analysis
+- Used DBSCAN and time-series analysis on 647K cell phone records to detect 628 co-traveling groups
 
 ## 📊 GitHub Stats
 
@@ -91,8 +105,7 @@ class GurmeherSingh:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurmeherSingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🎯 Current Focus
-
+### 🚀 **Technical Learning**
 ```mermaid
 graph LR
     A[Current Learning] --> B[Large Language Models]
@@ -109,17 +122,14 @@ graph LR
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="mailto:gurmeher.singh@example.com">
+  <a href="mailto:guru170606@@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/gurmeher-singh">
+  <a href="https://www.linkedin.com/in/gurmehersingh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/gurmeher_singh">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://kaggle.com/gurmehersingh">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <a href="https://devpost.com/GurmeherSingh">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" />
   </a>
 </div>
 
