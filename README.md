@@ -45,7 +45,7 @@ def past_experience(self):
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GurmeherSingh&theme=tokyonight" alt="GitHub Stats" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GurmeherSingh&theme=tokyonight" alt="GitHub Stats" width="600" />
 </div>
 
 ## 🎯 Featured Projects
