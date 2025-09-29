@@ -24,6 +24,9 @@ class GurmeherSingh:
         return ["LLMs", "Generative AI", "MLOps", "Cloud Computing"]
 ```
 
+**Current:** Undergraduate Survey Research Data Analyst @ Grace Hopper AI Research Institute, NJIT, Research Assistant @ Center for AI Research, NJIT  
+**Past:** AI/ML Intern @ Welzin — Credzin, Research Assistant @ The Bader Research Lab, NJIT
+
 ## 🛠️ Tech Stack
 
 **🤖 AI/ML:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -55,34 +58,6 @@ class GurmeherSingh:
 - 🎓 **Research Presentation** - "Leveraging NLP to transform Course Evaluation" at NEAIR 52nd Conference (Nov 8-11) in Maryland alongside Dr. Yi Meng, Associate Director at NJIT
 - **🏆 Winner** - MLH Track: Best Use of MongoDB Atlas, GirlHacks 2025
 
-## 💼 Current Employment
-
-**Undergraduate Survey Research Data Analyst** @ **Grace Hopper AI Research Institute, NJIT**  
-*Sep. 2025 - Present*
-
-- Selected and funded by NJIT director to scale personal project into university-level initiative under NJIT OIE
-- Building AI driven tools for the NJIT community
-
-**Research Assistant** @ **Center for AI Research, NJIT (under Prof Guiling Wang)**  
-*Sep. 2025 - Present*
-
-- Developed benchmark dataset to evaluate LLMs on interpreting steganographic and hidden-depth images
-- Tested multimodal AI models (GPT, Claude, Gemini, InternLM, LLaVa) on visualization tasks
-
-## 💼 Past Experience
-
-**AI/ML Intern** @ **Welzin — Credzin**  
-*Jun. 2025 - Aug. 2025*
-
-- Automated extraction of 300 credit cards with 80 attributes via Firecrawl, cutting manual data entry by 90%
-- Built document-grounded chatbot using RAG with hybrid retrieval, improving answer relevance by 50%
-- Implemented a Neo4j-based Credit Card Recommender Engine
-
-**Research Assistant** @ **The Bader Research Lab, NJIT**  
-*Sep. 2024 - Dec. 2024*
-
-- Applied K-Means to 1.2M phone records, identifying spatio-temporal clusters for crime analysis
-- Used DBSCAN and time-series analysis on 647K cell phone records to detect 628 co-traveling groups
 
 ## 🤝 Let's Connect!
 
