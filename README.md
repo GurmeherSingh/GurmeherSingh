@@ -60,7 +60,7 @@ class GurmeherSingh:
 - **Smart Recommendation Engine** - Engineered recommendation system leveraging TF-IDF, cosine similarity, keyword mapping, and NLTK preprocessing for 1,176 courses across 24 departments, achieving 95% recommendation accuracy
 
 ### 🧠 [CarbonLens](https://github.com/GurmeherSingh/CarbonLens) - AR Scanner to lookup Carbon Footprint Emissions
-- **AR Scanner for Environmental Impact** - Point camera at products to see carbon footprint, water usage, and sustainability data in real-time
+- **AR Scanner for Carbon Emissions** - Point camera at products to see carbon footprint, water usage, and sustainability data in real-time
 - **🏆 Winner** - MLH Track: Best Use of MongoDB Atlas, GirlHacks 2025
 
 ## 🏆 Recent Achievements
@@ -101,11 +101,15 @@ class GurmeherSingh:
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=GurmeherSingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&layout=compact" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GurmeherSingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurmeherSingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br><br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurmeherSingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurmeherSingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurmeherSingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
   
 </div>
 
