@@ -55,7 +55,7 @@ def past_experience(self):
 - **Smart Recommendation Engine** - Engineered recommendation system leveraging TF-IDF, cosine similarity, keyword mapping, and NLTK preprocessing for 1,176 courses across 24 departments, achieving 95% recommendation accuracy
 
 ### 🧠 [CarbonLens](https://github.com/GurmeherSingh/CarbonLens) - AR Scanner to lookup Carbon Footprint Emissions
-- **AR Scanner for Carbon Emissions** - Point camera at products to see carbon footprint, water usage, and sustainability data in real-time
+- **AR Scanner for Carbon Emissions** - Scan barcodes to see carbon footprint, water usage, and sustainability data in real-time
 - **🏆 Winner** - MLH Track: Best Use of MongoDB Atlas, GirlHacks 2025
 
 ## 🏆 Recent Achievements
