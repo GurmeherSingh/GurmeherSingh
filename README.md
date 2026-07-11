@@ -39,8 +39,7 @@ I build AI-native products end to end — ML pipelines, LLM agents, and the full
 ## more about me
 
 - featured by [NJIT News](https://news.njit.edu/computer-science-student-represents-njit-second-year-treehacks-2026) as the **sole NJIT student at Stanford TreeHacks** two years running — one of 1,000 accepted from 15,000 applicants
-- the banner up top is a real three.js scene rendered frame-by-frame into a GIF, and everything falling in it is true: I collect fragrances and watches, play pickleball, and was raised on PS2/PS3 and Dragon Ball Z
-- always down to talk startups, music, or whichever MCP server I'm obsessed with this week
+- always down to talk about anything
 
 ## stack
 
@@ -49,3 +48,12 @@ I build AI-native products end to end — ML pipelines, LLM agents, and the full
 ## find me
 
 [email](mailto:guru170606@gmail.com) · [linkedin](https://www.linkedin.com/in/gurmehersingh) · [devpost](https://devpost.com/GurmeherSingh)
+
+## fun facts
+
+- originally from Saharanpur, UP, India
+- watch guy — daily driver is a Tissot PRX carbon · fragrance collector
+- solo travel, concerts, podcasts, pickleball, and climbing (sometimes?!)
+- bike everywhere — among the top Bay Wheels riders in SF
+- console gamer, raised on PS2/PS3
+- the banner up top is a real three.js scene rendered frame-by-frame into a GIF — everything falling in it is real
