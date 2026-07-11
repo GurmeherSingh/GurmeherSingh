@@ -6,7 +6,7 @@
 
 I build AI-native products end to end — ML pipelines, LLM agents, and the full-stack apps that ship them.
 
-**now** · Member of Technical Staff @ [Ditto](https://ditto.ai) ($9.2M seed) · CS & AI @ NJIT '28 · 3.84 · full-ride merit scholar
+**now** · Member of Technical Staff Intern @ [Ditto](https://ditto.ai) ($9.2M seed) · CS & AI @ NJIT '28 · 3.84 · full-ride merit scholar
 
 **next** · seeking **fall '26 internships** → [guru170606@gmail.com](mailto:guru170606@gmail.com)
 
