@@ -38,8 +38,8 @@ I build AI-native products end to end — ML pipelines, LLM agents, and the full
 
 ## more about me
 
-- featured by [NJIT News](https://news.njit.edu/computer-science-student-represents-njit-second-year-treehacks-2026) as the **sole NJIT student at Stanford TreeHacks** two years running — one of 1,000 accepted from 15,000 applicants
-- always down to talk about anything
+- featured by [NJIT News](https://news.njit.edu/computer-science-student-represents-njit-second-year-treehacks-2026) as the **sole NJIT student at Stanford TreeHacks** — one of 1,000 accepted from 15,000 applicants
+- always down to talk about anything, hmu!
 
 ## stack
 
