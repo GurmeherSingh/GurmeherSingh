@@ -34,7 +34,7 @@ I build AI-native products end to end — ML pipelines, LLM agents, and the full
 
 ## research
 
-- *Leveraging NLP to Transform Course Evaluation* — presented at **NEAIR 52nd Conference** alongside Dr. Yi Meng (Associate Director, NJIT)
+- *Leveraging NLP to Transform Course Evaluation* presented at **NEAIR 52nd Conference** alongside Dr. Yi Meng (Associate Director, NJIT)
 
 ## more about me
 
